@@ -81,7 +81,7 @@ Name and type of organisation providing education and training
 * ISTQB Certified Tester: Foundation Level.
 * Extensive knowledge of MS Office.
 * Programming Languages: 
-<span title="class HelloWorld{public static void main(String[] args){System.out.println("Hello, World!");}}">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.) </span>, Python, Javascript, Groovy.
+<span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Python, Javascript, Groovy.
 * DB: MySQL, PostgreSQL, MongoDB.
 * OS: Windows, Linux, MacOS. 
 
