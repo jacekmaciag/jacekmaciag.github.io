@@ -1,15 +1,15 @@
-#Jacek Maciąg
+# Jacek Maciąg
 
-##Personal information
+## Personal information
 Address **Jeleniogórska 14, 30-422 Kraków (Poland)**  
 Mobile **(+48)507581744**  
 E-mail(s) **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
 Nationality **Polish**   
 Date of birth **17 May 1987**  
 
-##Work experience
+## Work experience
 
-###Quality Assurance @ Welltok, Inc. <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="50"/>
+### Quality Assurance @ Welltok, Inc. <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="50"/>
 Dates **11/2017 → present**  
 
 Main activities and responsibilities  
@@ -22,7 +22,7 @@ Name and address of employer
 >1515 Arapahoe Street, Tower 3 – Suite 700  
 >Denver, CO 80202
 
-###Software Developer in Test II @ Akamai Technologies Poland Sp. z o.o. <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg" alt="akamai logo" height="50"/>
+### Software Developer in Test II @ Akamai Technologies Poland Sp. z o.o. <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg" alt="akamai logo" height="50"/>
 Dates **6/2017 → 11/2017**  
 Main activities and responsibilities
 * Testing frontend and backend with automated test scripts.
@@ -34,7 +34,7 @@ Name and address of employer
 >Akamai Technologies Poland Sp. z o.o.  
 >Opolska 100, 31-323 Kraków (Poland)
 
-###Quality Control Analyst @ Brown Brothers Harriman (Poland) Sp. z o.o. <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="50"/>
+### Quality Control Analyst @ Brown Brothers Harriman (Poland) Sp. z o.o. <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="50"/>
 Dates **10/2015 → 5/2017**  
 Main activities and responsibilities
 * Design, preparation and execution of both manual and automated test scripts.
@@ -47,7 +47,7 @@ Name and address of employer
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
 >Klimeckiego 1, 30-705 Kraków (Poland)
 
-###Operations Lead Specialist with Corporate Actions Inquiry Response Team (prev. Mutual Funds Services) @ Brown Brothers Harriman (Poland) Sp. z o.o. <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" width="50"/>
+### Operations Lead Specialist with Corporate Actions Inquiry Response Team (prev. Mutual Funds Services) @ Brown Brothers Harriman (Poland) Sp. z o.o. <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" width="50"/>
 Dates **08/2012 → 10/2015**  
 Main activities and responsibilities
 * Responding to clients’ inquiries pertaining to Corporate Action events and related processes.
@@ -61,10 +61,9 @@ Name and address of employer
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
 >Klimeckiego 1, 30-705 Kraków (Poland)
 
-##Education
+## Education
 
-###Systems design and utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="50"/>
-http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg
+### Systems design and utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="50"/>
 Dates **10/2015 → 6/2016**  
 Name and type of organisation providing education and training
 >Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)
@@ -74,7 +73,7 @@ Level in national or international classification
 Post-graduate studies
 
 Subject
-###International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="50"/>
+### International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="50"/>
 Dates **9/2006 - 6/2011**   
 Name and type of organisation providing education and training
 >Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)
@@ -83,9 +82,9 @@ Name and type of organisation providing education and training
 Level in national or international classification
 Master's Degree
 
-##Personal skills and competences
+## Personal skills and competences
 
-###Computer skills and competences
+### Computer skills and competences
 * ISTQB Certified Tester: Foundation Level.
 * Extensive knowledge of MS Office.
 * Programming Languages: 
@@ -93,7 +92,7 @@ Master's Degree
 * DB: MySQL, PostgreSQL, MongoDB.
 * OS: Windows, Linux, MacOS. 
 
-###Language(s)*
+### Language(s)*
 |Language|Understanding|    |Speaking         |                 |Writing|
 |--------|:-------:|:-----:|:----------------:|:---------------:|:-----:|
 |        |Listening|Reading|Spoken interaction|Spoken production|       |
@@ -102,19 +101,19 @@ Master's Degree
 
 (*) Self-assessment, Common European Framework of Reference (CEF) level 
 
-###Social skills and competences
+### Social skills and competences
 * Good presentation skills (former member of Toastmasters International organization).
 * Communicative and open person. 
 * Keen on acquiring new contacts.
 * Highly motivated and result driven.
 * Mannerly and courteous.
 
-###Organisational skills and competences
+### Organisational skills and competences
 * Highly developed organisational skills.
 * Cooperative team member.
 
-###Hobbies
+### Hobbies
 Basketball, guitar and piano.
 
-##Annexes
+## Annexes
 I hereby agree for my personal data to be processed in accordance with provisions of the Personal Data Protection Act of 29 August 1997, [Dz. Ust.] [Nr] (No) 133, [poz.] (item) 883
