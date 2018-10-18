@@ -9,7 +9,7 @@ Date of birth **17 May 1987**
 
 ## Work experience
 
-### Quality Assurance @ Welltok, Inc. <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="middle"/>
+### Quality Assurance @ Welltok, Inc. <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
 Dates **11/2017 → present**  
 
 Main activities and responsibilities  
@@ -63,24 +63,17 @@ Name and address of employer
 
 ## Education
 
-### Systems design and utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="30" align="middle"/>
+### Post-graduate studies in Systems Design and Utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="30" align="middle"/>
 Dates **10/2015 → 6/2016**  
 Name and type of organisation providing education and training
 >Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)
 >al. Mickiewicza 30, 30-059 Kraków (Poland)
 
-Level in national or international classification
-Post-graduate studies
-
-Subject
-### International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="30" align="middle"/>
+### Master's Degree in International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="30" align="middle"/>
 Dates **9/2006 - 6/2011**   
 Name and type of organisation providing education and training
 >Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)
 >Gustawa Herlinga – Grudzińskiego 1, 30-705 Kraków (Poland)
-
-Level in national or international classification
-Master's Degree
 
 ## Personal skills and competences
 
@@ -88,7 +81,7 @@ Master's Degree
 * ISTQB Certified Tester: Foundation Level.
 * Extensive knowledge of MS Office.
 * Programming Languages: 
-<span title="class HelloWorld{public static void main(String[] args){System.out.println(\"Hello, World!\");}}">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.) </span>, Python, Javascript, Groovy.
+<span title="class HelloWorld{public static void main(String[] args){System.out.println("Hello, World!");}}">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.) </span>, Python, Javascript, Groovy.
 * DB: MySQL, PostgreSQL, MongoDB.
 * OS: Windows, Linux, MacOS. 
 
