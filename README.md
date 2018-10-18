@@ -1,3 +1,5 @@
+<sub><sup>Jump to: [Personal info](Personal information) | [Experience](Work experience) | [Education](Education) | [Skills](Personal skills and competences)</sup></sub>
+
 # Jacek Maciąg
 
 ## Personal information
