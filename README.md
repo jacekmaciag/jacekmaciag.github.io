@@ -66,13 +66,13 @@ Name and address of employer
 ### Post-graduate studies in Systems Design and Utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="30" align="middle"/>
 Dates **10/2015 → 6/2016**  
 Name and type of organisation providing education and training
->Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)
+>Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)  
 >al. Mickiewicza 30, 30-059 Kraków (Poland)
 
 ### Master's Degree in International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="30" align="middle"/>
 Dates **9/2006 - 6/2011**   
 Name and type of organisation providing education and training
->Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)
+>Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)  
 >Gustawa Herlinga – Grudzińskiego 1, 30-705 Kraków (Poland)
 
 ## Personal skills and competences
