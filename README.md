@@ -1,4 +1,4 @@
-<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me)| [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
+<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
 
 # Jacek Maciąg
 
@@ -11,7 +11,9 @@ Date of birth **17 May 1987**
 
 ## About me
 
-A dedicated and scrupulous (a perfectionist) tester with experience in both backend and frontend testing. My nunchakus are made with Java but I enjoy learning and exploring new vistas. A true believer that communication can solve any problem and that knowledge is power.
+*A dedicated and scrupulous (a perfectionist) tester with experience in both backend and frontend testing. 
+My nunchakus are made with Java but I enjoy learning and exploring new vistas. 
+A true believer that communication can solve any problem and that knowledge is power.*
 
 ## Work experience
 
