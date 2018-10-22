@@ -1,6 +1,6 @@
 <sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
 
-# Jacek Maciąg ![It's me!](https://raw.githubusercontent.com/jdelorean/resume/master/resources/me.jpg)
+# Jacek Maciąg ![It's me!](https://github.com/JDelorean/resume/blob/master/resources/me.jpg)
 
 ## Personal information
 Address **Jeleniogórska 14, 30-422 Kraków (Poland)**  
