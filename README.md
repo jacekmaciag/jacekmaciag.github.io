@@ -22,9 +22,10 @@ A true believer that communication can solve any problem and that knowledge is p
 Dates **11/2017 → present**  
 
 Main activities and responsibilities  
-*  
-*  
-*  
+* Perform front- and back-end testing of over 20 applications (functional, integration and end-to-end).  
+* Test environment maintenance.  
+* Debugging multiple mixed tech stack (Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
+* Working remotely with a team based across different continents and countries.
 
 Name and address of employer
 >Welltok, Inc.  
@@ -48,7 +49,7 @@ Dates **10/2015 → 5/2017**
 Main activities and responsibilities
 * Design, preparation and execution of both manual and automated test scripts.
 * Bug reporting and analysis.
-* Development of an automated test framework (using Java, Selenium, Serenity +  Jenkins/Docker) for bank’s major Corporate Actions systems.
+* Development of an automated test framework (using Java, Selenium, Serenity + Jenkins/Docker) for bank’s major Corporate Actions systems.
 * Sharing knowledge and providing help to non-business team members based on previous experience.
 * Providing assistance to UAT and production environment users.
 
