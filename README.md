@@ -1,4 +1,4 @@
-<sub><sup>Jump to: [Personal info](Personal information) | [Experience](Work experience) | [Education](Education) | [Skills](Personal skills and competences)</sup></sub>
+<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me)| [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
 
 # Jacek Maciąg
 
@@ -9,9 +9,13 @@ E-mail(s) **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**
 Nationality **Polish**   
 Date of birth **17 May 1987**  
 
+## About me
+
+A dedicated and scrupulous (a perfectionist) tester with experience in both backend and frontend testing. My nunchakus are made with Java but I enjoy learning and exploring new vistas. A true believer that communication can solve any problem and that knowledge is power.
+
 ## Work experience
 
-### Quality Assurance @ Welltok<img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
+### Quality Assurance @ Welltok <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
 Dates **11/2017 → present**  
 
 Main activities and responsibilities  
@@ -24,7 +28,7 @@ Name and address of employer
 >1515 Arapahoe Street, Tower 3 – Suite 700  
 >Denver, CO 80202
 
-### Software Developer in Test II @ Akamai Technologies<img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg" alt="akamai logo" height="30" align="top"/>
+### Software Developer in Test II @ Akamai Technologies <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg" alt="akamai logo" height="30" align="top"/>
 Dates **6/2017 → 11/2017**  
 Main activities and responsibilities
 * Testing frontend and backend with automated test scripts.
@@ -36,7 +40,7 @@ Name and address of employer
 >Akamai Technologies Poland Sp. z o.o.  
 >Opolska 100, 31-323 Kraków (Poland)
 
-### Quality Control Analyst @ Brown Brothers Harriman<img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
+### Quality Control Analyst @ Brown Brothers Harriman <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
 Dates **10/2015 → 5/2017**  
 Main activities and responsibilities
 * Design, preparation and execution of both manual and automated test scripts.
@@ -49,7 +53,7 @@ Name and address of employer
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
 >Klimeckiego 1, 30-705 Kraków (Poland)
 
-### Operations Lead Specialist with CA Inquiry Response Team @ Brown Brothers Harriman<img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
+### Operations Lead Specialist with CA Inquiry Response Team @ Brown Brothers Harriman <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
 Dates **08/2012 → 10/2015**  
 Main activities and responsibilities
 * Responding to clients’ inquiries pertaining to Corporate Action events and related processes.
