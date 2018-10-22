@@ -1,5 +1,5 @@
 <sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
-<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/resources/me.jpg" alt="It's me!" align="right"/></div>
+<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/resources/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
 
 # Jacek Maciąg 
 
