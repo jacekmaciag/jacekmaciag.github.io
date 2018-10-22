@@ -93,7 +93,7 @@ Name and type of organisation providing education and training
 <span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Python, Javascript, Groovy.
 * DB: MySQL, PostgreSQL, MongoDB.
 * OS: Windows, Linux, MacOS.
-* Tools: git, Confluence, Jira, Rally, MS Office.
+* Tools: git, kubernetes, deis, Confluence, Jira, Rally, Jenkins, Semaphore, Splunk, Sentry, AWS, MS Office.
 
 ### Language(s)*
 |Language|Understanding|    |Speaking         |                 |Writing|
