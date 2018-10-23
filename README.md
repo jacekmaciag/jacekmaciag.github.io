@@ -18,7 +18,7 @@ A true believer that communication can solve any problem and that knowledge is p
 
 *In my free time I am focusing on developing a personal project - 
 a distributed system for automated commodities/forex trading called* :construction: *[**Opes**](https://github.com/search?q=Jdelorean%2Fopes&type=Repositories)*
-:construction_worker: *- utilizing Java(Spring, Spring Boot, MongoDB, Postgres) and soon Python.*
+:construction: *- utilizing Java(Spring, Spring Boot, MongoDB, Postgres) and soon Python.*
 
 ## Work experience
 
