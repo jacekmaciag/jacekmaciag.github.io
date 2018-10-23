@@ -120,7 +120,7 @@ Name and type of organisation providing education and training
 * Cooperative team member.
 
 ### Hobbies
-Basketball, guitar and piano.
+Gaming, Basketball, DAW-less music production (synthesizers, guitars & pianos).
 
 ## Annexes
 I hereby agree for my personal data to be processed in accordance with provisions of the Personal Data Protection Act of 29 August 1997, [Dz. Ust.] [Nr] (No) 133, [poz.] (item) 883
