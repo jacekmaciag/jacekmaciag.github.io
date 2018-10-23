@@ -16,6 +16,10 @@ Date of birth **17 May 1987**
 My nunchakus are made with Java but I enjoy learning and exploring new vistas. 
 A true believer that communication can solve any problem and that knowledge is power.*
 
+*In my free time I am focusing on developing a personal project - 
+a distributed system for automated commodities/forex trading called [**Opes**](https://github.com/search?q=Jdelorean%2Fopes&type=Repositories) - 
+utilizing Java(Spring, Spring Boot, MongoDB, Postgres) and soon Python.*
+
 ## Work experience
 
 ### Quality Assurance @ Welltok <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
