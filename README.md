@@ -1,4 +1,4 @@
-<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences)</sup></sub>
+<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences) | [Annexes](#annexes)</sup></sub>
 <div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/resources/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
 
 # Jacek Maciąg 
@@ -123,4 +123,8 @@ Name and type of organisation providing education and training
 Gaming, Basketball, DAW-less music production (synthesizers, guitars & pianos).
 
 ## Annexes
-I hereby agree for my personal data to be processed in accordance with provisions of the Personal Data Protection Act of 29 August 1997, [Dz. Ust.] [Nr] (No) 133, [poz.] (item) 883
+I hereby give consent for my personal data included in my application to be processed for the purposes 
+of the recruitment process under the Regulation (EU) 2016/679 of the European Parliament and 
+of the Council of 27 April 2016 on the protection of natural persons with regard to the processing 
+of personal data and on the free movement of such data, and repealing Directive 95/46/EC 
+(General Data Protection Regulation).
