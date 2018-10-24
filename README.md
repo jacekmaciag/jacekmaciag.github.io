@@ -114,8 +114,6 @@ Name and type of organisation providing education and training
 * Keen on acquiring new contacts.
 * Highly motivated and result driven.
 * Mannerly and courteous.
-
-### Organisational skills and competences
 * Highly developed organisational skills.
 * Cooperative team member.
 
