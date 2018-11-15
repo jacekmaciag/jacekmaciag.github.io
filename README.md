@@ -52,6 +52,7 @@ Name and address of employer
 Dates **10/2015 → 5/2017**  
 Main activities and responsibilities
 * Design, preparation and execution of both manual and automated test scripts.
+* Writing test plan and strategy documents.
 * Bug reporting and analysis.
 * Development of an automated test framework (using Java, Selenium, Serenity + Jenkins/Docker) for bank’s major Corporate Actions systems.
 * Sharing knowledge and providing help to non-business team members based on previous experience.
