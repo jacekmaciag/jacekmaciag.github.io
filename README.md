@@ -4,7 +4,7 @@
 # Jacek Maciąg 
 
 ## Personal information
-Address **Jeleniogórska 14, 30-422 Kraków (Poland)**  
+Address **Sucha 1/8, 30-601 Kraków (Poland)**  
 Mobile **(+48)507581744**  
 E-mail(s) **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
 Nationality **Polish**   
