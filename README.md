@@ -5,8 +5,8 @@
 
 ## Personal information
 Address **Sucha 1/8, 30-601 Kraków (Poland)**  
-Mobile **(+48)507581744**  
-E-mail(s) **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
+Mobile **(+48) 507 581 744**  
+E-mail **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
 Nationality **Polish**   
 Date of birth **17 May 1987**  
 
@@ -14,7 +14,7 @@ Date of birth **17 May 1987**
 
 *A dedicated and scrupulous (a perfectionist) tester with experience in both backend and frontend testing. 
 My nunchakus are made with Java but I enjoy learning and exploring new vistas. 
-A true believer that communication can solve any problem and that knowledge is power.*
+I truly believe communication can solve any problem and knowledge is power.*
 
 *In my free time I am focusing on developing a personal project - 
 a distributed system for automated commodities/forex trading called* :construction: *[**Opes**](https://github.com/search?q=Jdelorean%2Fopes&type=Repositories)*
