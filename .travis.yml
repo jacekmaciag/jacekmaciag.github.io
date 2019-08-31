@@ -1,3 +1,0 @@
-language: python
-script:
-  - python -c 'print("running on travis")'
