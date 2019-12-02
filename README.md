@@ -18,9 +18,6 @@ a distributed system for automated commodities/forex trading called* :constructi
 ## Contact
 **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
 
-## About me
-
-
 ## Work experience
 
 ### Quality Assurance @ Champion Petfoods <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13332911_1011581972253476_7256880443440649088_n.jpg?_nc_cat=105&_nc_ohc=NOf8GBl7oSoAQkqN5AfFvyF-t0qucQODm8KVsqSl44M_-QmM1LBKawABw&_nc_ht=scontent-iad3-1.xx&oh=a04eaec9ba9fba4be5e6b7f1f921eda9&oe=5E469137" alt="champion petfoods logo" height="30" align="top"/>
