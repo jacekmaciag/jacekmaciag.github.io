@@ -1,12 +1,11 @@
-<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills-and-competences) | [Annexes](#annexes)</sup></sub>
-<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/resources/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
+<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills) | [Annexes](#annexes)</sup></sub>
+<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/res/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
 
-# Jacek Maciąg 
+# Jacek Maciag
+*Contractor at Toptal <img src="https://bs-uploads.toptal.io/blackfish-uploads/press_center_assets_page/content/small_toptal_logo_file/small_toptal_logo/506/symbol_logo-e84ebcc8be670424e5441ecb5be0b8a3.png" alt="toptal logo" height="18" align="top"/>
+& 
+Pilot <img src="https://d33wubrfki0l68.cloudfront.net/3292b037443eccf70263f654a846d8ba1b90ce35/76aa6/assets/img/pilot.svg" alt="toptal logo" height="18" align="top"/>*
 
-## Contact
-**<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
-
-## About me
 
 *A dedicated and scrupulous (a perfectionist) tester with experience in both backend and frontend testing. 
 My nunchakus are made with Java but I enjoy learning and exploring new vistas. 
@@ -16,7 +15,27 @@ A true believer that communication can solve any problem and that knowledge is p
 a distributed system for automated commodities/forex trading called* :construction: *[**Opes**](https://github.com/search?q=Jdelorean%2Fopes&type=Repositories)*
 :construction: *- with Java (Spring, Spring Boot, Postgres) and Python (Flask).*
 
+## Contact
+**<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
+
+## About me
+
+
 ## Work experience
+
+### Quality Assurance @ Champion Petfoods <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13332911_1011581972253476_7256880443440649088_n.jpg?_nc_cat=105&_nc_ohc=NOf8GBl7oSoAQkqN5AfFvyF-t0qucQODm8KVsqSl44M_-QmM1LBKawABw&_nc_ht=scontent-iad3-1.xx&oh=a04eaec9ba9fba4be5e6b7f1f921eda9&oe=5E469137" alt="champion petfoods logo" height="30" align="top"/>
+Dates **11/2019 → present** 
+
+Main activities and responsibilities  
+* Perform front- and back-end testing of over 20 applications (functional, integration and end-to-end).  
+* Test environment maintenance.  
+* Debugging multiple mixed tech stack (Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
+* Working remotely with a team based across different continents and countries.
+
+Name and address of employer
+>Welltok, Inc.  
+>1515 Arapahoe Street, Tower 3 – Suite 700  
+>Denver, CO 80202
 
 ### Quality Assurance @ Welltok <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
 Dates **11/2017 → present**  
@@ -32,7 +51,7 @@ Name and address of employer
 >1515 Arapahoe Street, Tower 3 – Suite 700  
 >Denver, CO 80202
 
-### Software Developer in Test II @ Akamai Technologies <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg" alt="akamai logo" height="30" align="top"/>
+### Software Developer in Test II @ Akamai Technologies <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg?imwidth=320" alt="akamai logo" height="30" align="top"/>
 Dates **6/2017 → 11/2017**  
 Main activities and responsibilities
 * Testing frontend and backend with automated test scripts.
@@ -86,9 +105,9 @@ Name and type of organisation providing education and training
 >Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)  
 >Gustawa Herlinga – Grudzińskiego 1, 30-705 Kraków (Poland)
 
-## Personal skills and competences
+## Personal skills
 
-### Computer skills and competences
+### Computer skills
 * ISTQB Certified Tester: Foundation Level.
 * Programming Languages: 
 <span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Python, Javascript, Groovy.
@@ -96,16 +115,7 @@ Name and type of organisation providing education and training
 * OS: Windows, Linux, MacOS.
 * Tools: git, kubernetes, deis, Confluence, Jira, Rally, Jenkins, Semaphore, Splunk, Sentry, AWS, MS Office.
 
-### Language(s)*
-|Language|Understanding|    |Speaking         |                 |Writing|
-|--------|:-------:|:-----:|:----------------:|:---------------:|:-----:|
-|        |Listening|Reading|Spoken interaction|Spoken production|       |
-|English |C2       |C2     |C2                |C2               |C2     |
-|German  |A2       |A2     |A2                |A1               |A2     |
-
-(*) Self-assessment, Common European Framework of Reference (CEF) level 
-
-### Social skills and competences
+### Social skills
 * Good presentation skills (former member of Toastmasters International organization).
 * Communicative and open person. 
 * Keen on acquiring new contacts.
