@@ -4,7 +4,7 @@
 # Jacek Maciag
 *Contractor at Toptal <img src="https://github.com/JDelorean/resume/blob/master/res/toptal_logo.jpg" alt="Toptal" height="18" align="top"/>
 & 
-Pilot <img src="https://github.com/JDelorean/resume/blob/master/res/pilot_logo.jpg" alt="Pilot" height="18" align="top"/>*
+Pilot <img src="https://github.com/JDelorean/resume/blob/master/res/pilot_logo.svg" alt="Pilot" height="18" align="top"/>*
 
 A dedicated and scrupulous (a perfectionist) tester with experience in API, frontend and mobile testing. 
 Having started my career with Java language and Selenium automation, over the years I was able to add to gain experience
@@ -93,13 +93,13 @@ Main activities and responsibilities
 
 ## Education
 
-### Post-graduate studies in Systems Design and Utilization @ AGH <img src="https://github.com/JDelorean/resume/blob/master/res/agh_logo.png" alt="AGH" height="30" align="top"/>
+### Post-graduate studies in Systems Design and Utilization @ AGH <img src="https://github.com/JDelorean/resume/blob/master/res/agh_logo.jpg" alt="AGH" height="30" align="top"/>
 **10/2015 → 6/2016**  
 
 >Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)  
 >al. Mickiewicza 30, 30-059 Kraków Poland
 
-### Master's Degree in International Relations / Modern Diplomacy @ Krakowska Akademia <img src="https://github.com/JDelorean/resume/blob/master/res/ak_logo.png" alt="Krakowska Akademia" height="30" align="top"/>
+### Master's Degree in International Relations / Modern Diplomacy @ Krakowska Akademia <img src="https://github.com/JDelorean/resume/blob/master/res/ak_logo.jpg" alt="Krakowska Akademia" height="30" align="top"/>
 **9/2006 - 6/2011**  
 
 >Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)  
