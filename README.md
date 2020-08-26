@@ -1,4 +1,4 @@
-<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#work-experience) | [Education](#education) | [Skills](#personal-skills) | [Annexes](#annexes)</sup></sub>
+<sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#experience) | [Education](#education) | [Skills](#personal-skills) | [Annexes](#annexes)</sup></sub>
 <div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/res/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
 
 # Jacek Maciag
@@ -15,13 +15,16 @@ A true believer that communication can solve any problem and that knowledge is p
 a distributed system for automated commodities/forex trading called* :construction: *[**Opes**](https://github.com/search?q=Jdelorean%2Fopes&type=Repositories)*
 :construction: *- with Java (Spring, Spring Boot, Postgres) and Python (Flask).*
 
-## Contact
+## Connect
 **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
+**<a href="https://www.linkedin.com/in/jacek-maciag-7174622a/" target="_blank">LinkedIn</a>**  
+**<a href="https://stackoverflow.com/users/5620699/jdelorean" target="_blank">Stack Overflow</a>**  
+**<a href="https://www.hackerrank.com/JDelorean?hr_r=1" target="_blank">HackerRank</a>**  
 
-## Work experience
+## Experience
 
 ### Quality Assurance @ Champion Petfoods <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13332911_1011581972253476_7256880443440649088_n.jpg?_nc_cat=105&_nc_ohc=NOf8GBl7oSoAQkqN5AfFvyF-t0qucQODm8KVsqSl44M_-QmM1LBKawABw&_nc_ht=scontent-iad3-1.xx&oh=a04eaec9ba9fba4be5e6b7f1f921eda9&oe=5E469137" alt="champion petfoods logo" height="30" align="top"/>
-Dates **11/2019 → present** 
+Dates **11/2019 → 8/2020** 
 
 Main activities and responsibilities  
 * Perform front- and back-end testing of over 20 applications (functional, integration and end-to-end).  
@@ -29,13 +32,11 @@ Main activities and responsibilities
 * Debugging multiple mixed tech stack (Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
 * Working remotely with a team based across different continents and countries.
 
-Name and address of employer
->Welltok, Inc.  
->1515 Arapahoe Street, Tower 3 – Suite 700  
->Denver, CO 80202
+>Champion Petfoods LP  
+>301, 1103 95 Street SW Edmonton, AB T6X 0P8 Canada
 
 ### Quality Assurance @ Welltok <img src="https://pbs.twimg.com/profile_images/378800000856657135/zKJDlC8p_400x400.jpeg" alt="welltok logo" height="30" align="top"/>
-Dates **11/2017 → present**  
+Dates **11/2017 → 9/2020**  
 
 Main activities and responsibilities  
 * Perform front- and back-end testing of over 20 applications (functional, integration and end-to-end).  
@@ -43,10 +44,8 @@ Main activities and responsibilities
 * Debugging multiple mixed tech stack (Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
 * Working remotely with a team based across different continents and countries.
 
-Name and address of employer
 >Welltok, Inc.  
->1515 Arapahoe Street, Tower 3 – Suite 700  
->Denver, CO 80202
+>1515 Arapahoe Street, Tower 3 – Suite 700 Denver, CO 80202 US
 
 ### Software Developer in Test II @ Akamai Technologies <img src="https://www.akamai.com/us/en/multimedia/documents/media-resources/akamai-logo.jpg?imwidth=320" alt="akamai logo" height="30" align="top"/>
 Dates **6/2017 → 11/2017**  
@@ -56,9 +55,8 @@ Main activities and responsibilities
 * Development of an automated test framework (using Java, TestNG, Selenium, REST Assured/Retrofit, etc.).
 * Working in a RESTful web services environment.
 
-Name and address of employer
 >Akamai Technologies Poland Sp. z o.o.  
->Opolska 100, 31-323 Kraków (Poland)
+>Opolska 100, 31-323 Kraków Poland
 
 ### Quality Control Analyst @ Brown Brothers Harriman <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
 Dates **10/2015 → 5/2017**  
@@ -70,9 +68,8 @@ Main activities and responsibilities
 * Sharing knowledge and providing help to non-business team members based on previous experience.
 * Providing assistance to UAT and production environment users.
 
-Name and address of employer
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
->Klimeckiego 1, 30-705 Kraków (Poland)
+>Klimeckiego 1, 30-705 Kraków Poland
 
 ### Operations Lead Specialist with CA Inquiry Response Team @ Brown Brothers Harriman <img src="https://media.glassdoor.com/sqll/3668/brown-brothers-harriman-squarelogo-1520260667076.png" alt="bbh logo" height="30" align="top"/>
 Dates **08/2012 → 10/2015**  
@@ -84,30 +81,29 @@ Main activities and responsibilities
 * Dealing with escalated issues and complaints.
 * Sampling and evaluating inquiries resolved by other members of IRT team.
 
-Name and address of employer
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
->Klimeckiego 1, 30-705 Kraków (Poland)
+>Klimeckiego 1, 30-705 Kraków Poland
 
 ## Education
 
 ### Post-graduate studies in Systems Design and Utilization @ AGH <img src="http://wyprawabari.agh.edu.pl/graph/logo_agh.jpg" alt="agh logo" height="30" align="top"/>
 Dates **10/2015 → 6/2016**  
-Name and type of organisation providing education and training
+
 >Akademia Górniczo-Hutnicza im.S.Staszica w Krakowie (University)  
->al. Mickiewicza 30, 30-059 Kraków (Poland)
+>al. Mickiewicza 30, 30-059 Kraków Poland
 
 ### Master's Degree in International Relations / Modern Diplomacy @ Krakowska Akademia <img src="http://media.krakow.travel/photos/21560/xl.jpg" alt="ka logo" height="30" align="top"/>
 Dates **9/2006 - 6/2011**   
-Name and type of organisation providing education and training
+
 >Krakowska Akademia im. Andrzeja Frycza Modrzewskiego (University)  
->Gustawa Herlinga – Grudzińskiego 1, 30-705 Kraków (Poland)
+>Gustawa Herlinga – Grudzińskiego 1, 30-705 Kraków Poland
 
 ## Personal skills
 
 ### Computer skills
 * ISTQB Certified Tester: Foundation Level.
 * Programming Languages: 
-<span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Python, Javascript, Groovy.
+<span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Ruby, Python, Javascript, Groovy.
 * DB: MySQL, PostgreSQL, MongoDB.
 * OS: Windows, Linux, MacOS.
 * Tools: git, kubernetes, deis, Confluence, Jira, Rally, Jenkins, Semaphore, Splunk, Sentry, AWS, MS Office.
@@ -122,7 +118,7 @@ Name and type of organisation providing education and training
 * Cooperative team member.
 
 ### Hobbies
-Gaming, Basketball, DAW-less music production (synthesizers, guitars & pianos).
+Cycling, gaming, 
 
 ## Annexes
 I hereby give consent for my personal data included in my application to be processed for the purposes 
