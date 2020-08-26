@@ -27,38 +27,34 @@ which is based on Java and Spring Boot.
 
 ## Experience
 
-### Quality Assurance @ Champion Petfoods <img src="https://github.com/JDelorean/resume/blob/master/res/cpf_logo.jpg" alt="Champion Petfoods" height="30" align="top"/>
-**11/2019 → 8/2020**  
-
-Main activities and responsibilities  
-* Perform front and back-end testing of over 20 applications (functional, integration and end-to-end).  
-* Test environment maintenance.  
-* Debugging multiple mixed tech stack (Java, Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
-* Working remotely with a team based across different continents and countries.
-
->Champion Petfoods LP  
->301, 1103 95 Street SW Edmonton, AB T6X 0P8 Canada
-
 ### Quality Assurance @ Welltok <img src="https://github.com/JDelorean/resume/blob/master/res/welltok_logo.jpg" alt="Welltok" height="30" align="top"/>
 **11/2017 → 9/2020**  
 
-Main activities and responsibilities  
-* Perform front- and back-end testing of over 20 applications (functional, integration and end-to-end).  
-* Test environment maintenance.  
-* Debugging multiple mixed tech stack (Ruby, JS, Scala) applications and reporting detailed bugs including fix solutions.
-* Working remotely with a team based across different continents and countries.
+* Performed front and backend testing of over 20 applications (functional, integration and end-to-end).  
+* Maintained and deployed to test environment.  
+* Debugged multiple mixed tech stack (Jave, Ruby, JS, Scala) applications and reported detailed bugs including fix solutions.
+* Worked remotely with a team based across different continents and countries.
 
 >Welltok, Inc.  
 >1515 Arapahoe Street, Tower 3 – Suite 700 Denver, CO 80202 US
 
+### Quality Assurance @ Champion Petfoods <img src="https://github.com/JDelorean/resume/blob/master/res/cpf_logo.jpg" alt="Champion Petfoods" height="30" align="top"/>
+**11/2019 → 8/2020**  
+
+* Tested Wordpress and Salesforce company's corporate and product pages.
+* Performed testing with mobile and desktop platforms with various browsers.
+* Advised the client on key UX issues and possible solutions.
+ 
+>Champion Petfoods LP  
+>301, 1103 95 Street SW Edmonton, AB T6X 0P8 Canada
+
 ### Software Developer in Test II @ Akamai Technologies <img src="https://github.com/JDelorean/resume/blob/master/res/akamai_logo.jpg" alt="Akamai" height="30" align="top"/>
 **6/2017 → 11/2017**  
 
-Main activities and responsibilities
-* Testing frontend and backend with automated test scripts.
-* Bug reporting and analysis.
-* Development of an automated test framework (using Java, TestNG, Selenium, REST Assured/Retrofit, etc.).
-* Working in a RESTful web services environment.
+* Tested frontend and backend with automated test scripts.
+* Reported and analysed defects.
+* Developed an automated test framework (using Java, TestNG, Selenium, REST Assured/Retrofit, etc.).
+* Worked in a RESTful web services environment.
 
 >Akamai Technologies Poland Sp. z o.o.  
 >Opolska 100, 31-323 Kraków Poland
@@ -66,13 +62,12 @@ Main activities and responsibilities
 ### Quality Control Analyst @ Brown Brothers Harriman <img src="https://github.com/JDelorean/resume/blob/master/res/bbh_logo.png" alt="Brown Brothers Harriman" height="30" align="top"/>
 **10/2015 → 5/2017**  
 
-Main activities and responsibilities
-* Design, preparation and execution of both manual and automated test scripts.
-* Writing test plan and strategy documents.
-* Bug reporting and analysis.
-* Development of an automated test framework (using Java, Selenium, Serenity + Jenkins/Docker) for bank’s major Corporate Actions systems.
-* Sharing knowledge and providing help to non-business team members based on previous experience.
-* Providing assistance to UAT and production environment users.
+* Designed, prepared and executed both manual and automated test scripts.
+* Written test plan and strategy documents.
+* Reported and analysed defects.
+* Developed an automated test framework (using Java, Selenium, Serenity + Jenkins/Docker) for Corporate Actions systems.
+* Shared knowledge and provided help to non-business team members.
+* Provided assistance to UAT and production environment users.
 
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
 >Klimeckiego 1, 30-705 Kraków Poland
@@ -80,13 +75,12 @@ Main activities and responsibilities
 ### Operations Lead Specialist with CA Inquiry Response Team @ Brown Brothers Harriman <img src="https://github.com/JDelorean/resume/blob/master/res/bbh_logo.png" alt="Brown Brothers Harriman" height="30" align="top"/>
 **08/2012 → 10/2015**  
 
-Main activities and responsibilities
-* Responding to clients’ inquiries pertaining to Corporate Action events and related processes.
-* Serving as an intermediary between global client base and local custodians, as well as central US depository.
-* Providing a diligent and timely service in accord with company’s policies.
-* Handling of sensitive client base.
-* Dealing with escalated issues and complaints.
-* Sampling and evaluating inquiries resolved by other members of IRT team.
+* Responded to clients’ inquiries pertaining to Corporate Action events and related processes.
+* Served as an intermediary between global client base and local custodians, as well as central US depository.
+* Provided a diligent and timely service in accord with company’s policies.
+* Handled sensitive client base.
+* Dealt with escalated issues and complaints.
+* Sampled and evaluated inquiries resolved by other members of IRT team.
 
 >Brown Brothers Harriman (Poland) Sp. z o.o.  
 >Klimeckiego 1, 30-705 Kraków Poland
@@ -107,7 +101,7 @@ Main activities and responsibilities
 
 ## Personal skills
 
-### Computer skills````````
+### Computer skills
 * ISTQB Certified Tester: Foundation Level.
 * Programming Languages: 
 <span title="">Java(Spring, Spring Boot, JUnit, Selenium, Serenity, Cucumber, etc.)</span>, Ruby, Python, Javascript, Groovy.
@@ -125,7 +119,7 @@ Main activities and responsibilities
 * Cooperative team member.
 
 ### Hobbies
-Cycling, gaming, 
+Cycling, gaming, listening to music.
 
 ## Annexes
 I hereby give consent for my personal data included in my application to be processed for the purposes 
