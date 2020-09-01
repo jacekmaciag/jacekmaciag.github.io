@@ -6,6 +6,7 @@ Some md text here
 function createHSeparator() {
     hSeparator = document.createElement("span")
     hSeparator.innerHTML = "#===" + "#=====".repeat(8) + "#===#"
+    hSeparator.appendChild("br")
     return hSeparator
 }
 
@@ -14,17 +15,17 @@ function createVSeparator(mixIn = null) {
     if (mixIn) {
         for (i = 0; i < mixIn.length; ++i) {
             if (i == 0){
-                vSeparator.innerHTML += "|\xa0${mixIn[i]}\xa0"
+                vSeparator.innerHTML += `|\xa0${mixIn[i]}\xa0`
             } else if (0 < i < 10) {
 
             } else if (i == 10) {
-                vSeparator.innerHTML += "|\xa0${mixIn[i]}\xa0|"
+                vSeparator.innerHTML += `|\xa0${mixIn[i]}\xa0|`
             }
         }
     } else {
         vSeparator.innerHTML = "|\xa0\xa0\xa0" + "|\xa0\xa0\xa0\xa0\xa0".repeat(8) + "|\xa0\xa0\xa0|"
     }
-
+    vSeparator.appendChild("br")
     return vSeparator
 }
 
