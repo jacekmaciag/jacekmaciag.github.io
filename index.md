@@ -6,7 +6,7 @@ Some md text here
 function createHSeparator() {
     hSeparator = document.createElement("span")
     hSeparator.innerHTML = "#===" + "#=====".repeat(8) + "#===#"
-    hSeparator.appendChild("br")
+    hSeparator.createElement("br")
     return hSeparator
 }
 
@@ -25,7 +25,7 @@ function createVSeparator(mixIn = null) {
     } else {
         vSeparator.innerHTML = "|\xa0\xa0\xa0" + "|\xa0\xa0\xa0\xa0\xa0".repeat(8) + "|\xa0\xa0\xa0|"
     }
-    vSeparator.appendChild("br")
+    vSeparator.createElement("br")
     return vSeparator
 }
 
