@@ -1,5 +1,5 @@
 <sub><sup>Jump to: [Personal info](#personal-information) | [About me](#about-me) | [Experience](#experience) | [Education](#education) | [Skills](#personal-skills) | [Annexes](#annexes)</sup></sub>
-<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/res/me.jpg" alt="It's me!" align="right" unselectable="on"/></div>
+<div style="text-align: right"><img src="https://github.com/JDelorean/resume/blob/master/res/me.jpg" alt="It's me!" align="right" unselectable="on" width="200"/></div>
 
 # Jacek Maciag
 *Contractor at Toptal <img src="https://github.com/JDelorean/resume/blob/master/res/toptal_logo.jpg" alt="Toptal" height="18" align="top"/>
