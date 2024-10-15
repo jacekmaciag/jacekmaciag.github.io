@@ -21,9 +21,7 @@ which is based on Java and Spring Boot.
 
 ## Connect
 **<a href="jacek.maciag@gmail.com">jacek.maciag@gmail.com</a>**  
-**<a href="https://www.linkedin.com/in/jacek-maciag-7174622a/" target="_blank">LinkedIn</a>**  
-**<a href="https://stackoverflow.com/users/5620699/jdelorean" target="_blank">Stack Overflow</a>**  
-**<a href="https://www.hackerrank.com/JDelorean?hr_r=1" target="_blank">HackerRank</a>**  
+**<a href="https://www.linkedin.com/in/jacek-maciag/" target="_blank">LinkedIn</a>**
 
 ## Experience
 

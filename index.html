@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jacek Maciąg Resume</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.21.13/dist/css/uikit.min.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.13/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.13/dist/js/uikit-icons.min.js"></script>
+    <style>
+      .show-for-print {
+          display: none;
+      }
+
+      .hide-for-print {
+          display: block;
+      }
+
+      @media print {
+          .show-for-print {
+              display: block;
+          }
+          .hide-for-print {
+              display: none;
+          }
+      }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let printLink = document.getElementById('print');
+
+        printLink.addEventListener('click', function () {
+          window.print();
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div uk-sticky class="uk-background-default uk-box-shadow-medium hide-for-print">
+      <div class="uk-flex uk-flex-center uk-flex-middle">
+        <div class="uk-text-large uk-padding-small">Jacek Maciąg</div>
+        <a href="mailto:jacek.maciag@gmail.com" class="uk-icon-link uk-padding-small uk-padding-remove-left" uk-icon="icon: mail"></a>
+        <a href="https://www.linkedin.com/in/jacekmaciag" target="_blank" class="uk-icon-link uk-padding-small uk-padding-remove-left"
+           uk-icon="icon: linkedin"></a>
+        <a href="https://github.com/jacekmaciag" target="_blank" class="uk-icon-link uk-padding-small uk-padding-remove-left"
+           uk-icon="icon: github"></a>
+        <a id="print" class="uk-icon-link uk-padding-small uk-padding-remove-left hide-for-print" uk-icon="icon: print"></a>
+      </div>
+      <hr class="uk-margin-remove-top"/>
+    </div>
+
+    <div class="uk-container uk-margin uk-margin-top uk-background-default">
+      <div class="show-for-print">
+        <div uk-grid class="uk-grid-divider uk-flex-center">
+          <div class="uk-text-large uk-padding-small">Jacek Maciąg</div>
+          <div class="">
+            <div class="uk-flex uk-flex-middle">
+              <span uk-icon="mail"></span>
+              <div class="uk-text-small uk-padding-small uk-padding-remove-top uk-padding-remove-bottom">jacek.maciag@gmail.com</div>
+            </div>
+            <div class="uk-flex uk-flex-middle">
+              <span uk-icon="linkedin"></span>
+              <div class="uk-text-small uk-padding-small uk-padding-remove-top uk-padding-remove-bottom">https://www.linkedin.com/in/jacekmaciag</div>
+            </div>
+            <div class="uk-flex uk-flex-middle">
+              <span uk-icon="github"></span>
+              <div class="uk-text-small uk-padding-small uk-padding-remove-top uk-padding-remove-bottom">https://github.com/jacekmaciag</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="uk-flex uk-flex-left uk-flex-middle">
+        <p class="uk-text-small uk-padding-small">
+          Senior Ruby on Rails Engineer with over 6 years of experience in developing scalable back-end systems
+          using microservices and CI/CD practices in agile environments. Proven expertise in building innovative
+          solutions, enhancing performance, and leading quality assurance efforts. Dedicated to continuous improvement,
+          I excel in delivering high-quality software solutions, driving team success, and collaborating across teams
+          to meet business goals.
+        </p>
+        <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/me.jpg?raw=true" height="150" width="150" class="uk-border-circle">
+      </div>
+
+      <div class="uk-text-large uk-padding-small uk-padding-remove-top">Experience</div>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.toptal.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Toptal
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/toptal_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <div class="uk-flex uk-flex-between uk-flex-middle uk-margin-remove-top">
+            <p>Senior Back End Engineer</p>
+            <p>Oct 2024 - Present</p>
+          </div>
+<!--          <p>Senior Back End Engineer</p>-->
+<!--          <p>Oct 2024 - Present</p>-->
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+
+          <hr class="uk-divider-small">
+          <p>Back End Engineer</p>
+          <p>Aug 2023 - Oct 2024</p>
+
+          <hr class="uk-divider-small">
+          <p>Senior QA Automation Engineer</p>
+          <p>Oct 2020 - Aug 2023</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="uk-margin-remove-top"/>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.welltok.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Welltok, Inc.
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/welltok_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <p>Quality Assurance Engineer</p>
+          <p>Oct 2017 - Sep 2020</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="uk-margin-remove-top"/>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://championpetfoods.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Champion Petfoods
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/cpf_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <p>Quality Assurance Engineer</p>
+          <p>Nov 2019 - Jul 2020</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="uk-margin-remove-top"/>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.akamai.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Akamai Technologies
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/akamai_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <p>Software Development Engineer in Test II</p>
+          <p>Jun 2017 - Oct 2017</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="uk-margin-remove-top"/>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.bbh.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Brown Brothers Harriman
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/bbh_logo.png?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <p>Quality Control Analyst</p>
+          <p>Nov 2015 - May 2017</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+
+          <hr class="uk-divider-small">
+          <p>Lead Specialist</p>
+          <p>Aug 2012 - Nov 2015</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="uk-text-large uk-padding-small">Portfolio</div>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.akamai.com" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Akamai Technologies
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/akamai_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <hr class="uk-divider-small">
+          <p>Software Development Engineer in Test II</p>
+          <p>Jun 2017 - Oct 2017</p>
+          <ul class="uk-list uk-list-disc">
+            <li>Developed critical client-facing features for Toptal's back-end using Ruby on Rails.</li>
+            <li>Owned and delivered projects, ensuring timely completion and high quality.</li>
+            <li>Researched, designed, and implemented innovative solutions to enhance platform performance.</li>
+            <li>Coordinated effectively with other teams and stakeholders to achieve project goals.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="uk-text-large uk-padding-small">Education</div>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://www.agh.edu.pl" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              AGH University of Krakow
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/agh_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <p>Post-Graduate, Information Technology</p>
+          <p>2015 - 2016</p>
+        </div>
+      </div>
+
+      <hr class="uk-margin-remove-top"/>
+
+      <div class="uk-card">
+        <div class="uk-card-header uk-padding-remove-top">
+          <div class="uk-flex uk-flex-left uk-flex-middle">
+            <a href="https://uafm.edu.pl/" target="_blank" class="uk-link-text uk-text-large uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+              Andrzej Frycz Modrzewski Krakow University
+              <img src="https://github.com/jacekmaciag/jacekmaciag.github.io/blob/master/res/uafm_logo.jpg?raw=true" height="20" width="20">
+            </a>
+          </div>
+        </div>
+        <div class="uk-card-default uk-card-body uk-padding-remove-top">
+          <p>Master's, International Relations</p>
+          <p>2006 - 2011</p>
+        </div>
+      </div>
+
+      <div class="uk-text-large uk-padding-small">Skills</div>
+
+    </div>
+    <div class="hide-for-print">
+      <div class="uk-flex uk-flex-center uk-flex-column uk-flex-middle uk-margin-bottom uk-text-meta ">
+        <hr class="uk-margin-remove-top"/>
+        <a href="#" uk-totop uk-scroll>Back to top </a>
+        <small>© 2024 Jacek Maciąg. All rights reserved :)</small>
+        <small>Meticulously assembled with <a href="https://getuikit.com/">UIkit</a>.</small>
+      </div>
+    </div>
+  </body>
+</html>
